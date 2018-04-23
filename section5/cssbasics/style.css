@@ -1,0 +1,15 @@
+li {
+  color: blue;
+}
+
+h1 {
+  color: #FF8000;
+  border: 2px solid purple;
+}
+
+h4 {
+  background: rgb(255,100,100);
+}
+
+body {
+  background: pink;

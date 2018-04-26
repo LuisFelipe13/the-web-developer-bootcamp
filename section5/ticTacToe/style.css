@@ -11,29 +11,12 @@ td {
   height: 100px;
 }
 
-#two {
-  border-right: 2px solid black;
-  border-left: 2px solid black;
-}
-
-#four {
+.horizontal {
   border-top: 2px solid black;
   border-bottom: 2px solid black;
 }
 
-#five {
-  border-top: 2px solid black;
-  border-right: 2px solid black;
-  border-bottom: 2px solid black;
-  border-left: 2px solid black;
-}
-
-#six {
-  border-top: 2px solid black;
-  border-bottom: 2px solid black;
-}
-
-#eight {
+.vertical {
   border-right: 2px solid black;
   border-left: 2px solid black;
 }
